@@ -2,9 +2,9 @@
 
 Contributors: cccamuseme
 Tags: emails, disable, admin, notifications, users, reset
-Requires at least: 4.7
-Tested up to: 6.6.1
-Stable tag: 1.8
+Requires at least: 4.9
+Tested up to: 6.6.2
+Stable tag: 1.9
 Requires PHP: 7.4
 License: GPL v3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html

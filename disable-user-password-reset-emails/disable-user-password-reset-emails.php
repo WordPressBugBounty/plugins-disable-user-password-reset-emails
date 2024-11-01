@@ -10,10 +10,10 @@
 Plugin Name: Disable User Password Reset Admin Notifications
 Plugin URI: https://mindspikedesign.com/
 Description: Disable admin email notifications when a user changes their password. Simply activate the plugin and you will no longer receive a email notification when a user resets their password.
-Version: 1.8
+Version: 1.9
 Author: Chris Cook
 Author URI: https://chris-cook.net/
-Tested up to: 6.6.1
+Tested up to: 6.6.2
 License: GPL v3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 Text Domain: disable-user-password-reset-emails
