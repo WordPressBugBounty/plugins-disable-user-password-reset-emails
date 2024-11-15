@@ -1,9 +1,9 @@
 === Disable User Password Reset Admin Notifications ===
 
 Contributors: cccamuseme
-Tags: emails, disable, admin, notifications, users, reset
+Tags: emails, admin, notifications
 Requires at least: 4.9
-Tested up to: 6.6.2
+Tested up to: 6.7
 Stable tag: 1.9
 Requires PHP: 7.4
 License: GPL v3

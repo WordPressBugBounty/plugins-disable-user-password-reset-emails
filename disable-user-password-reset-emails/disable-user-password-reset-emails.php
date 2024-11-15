@@ -13,7 +13,7 @@ Description: Disable admin email notifications when a user changes their passwor
 Version: 1.9
 Author: Chris Cook
 Author URI: https://chris-cook.net/
-Tested up to: 6.6.2
+Tested up to: 6.7
 License: GPL v3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 Text Domain: disable-user-password-reset-emails
